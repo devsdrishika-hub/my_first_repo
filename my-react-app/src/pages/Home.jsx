@@ -1,4 +1,5 @@
-function Home(){
+// src/pages/Home.jsx
+function Home() {
     return (
         <div>
             <h1>Home Page</h1>
@@ -7,4 +8,5 @@ function Home(){
         </div>
     );
 }
+
 export default Home;
